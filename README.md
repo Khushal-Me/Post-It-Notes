@@ -47,9 +47,6 @@ No additional installation or setup is required as Post It Notes runs entirely i
 
 You can easily customize the look and feel of Post It Notes by modifying the CSS file. Feel free to adjust colors, fonts, and layouts to suit your preferences.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
 
 ## License
 
